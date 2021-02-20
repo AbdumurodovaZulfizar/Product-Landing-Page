@@ -1,1 +1,11 @@
-
+@media (max-width: 300px) {
+    body{font-size: 3px;
+    /* display: inline; */
+    /* inline-flex: 
+     */
+    flex-wrap:wrap;
+}
+header{
+    display: flex;
+    flex-wrap: wrap;
+}
